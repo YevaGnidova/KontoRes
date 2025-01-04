@@ -1,0 +1,6 @@
+    # ***********************************************
+    # * nazwa funkcji: find_max_index
+    # * parametry wejściowe: start - początkowy indeks do rozpoczęcia szukania
+    # * wartość zwracana: indeks największego elementu w zakresie od start do końca
+    # * autor: Yeva Gnidova
+    # ***********************************************
